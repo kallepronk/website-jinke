@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Fotos</title>
+    <link>file://localhost/Volumes/jinke/kalle/fotos/fotos.html</link>
+    <description>albums met vakantiefoto’s</description>
+    <item>
+      <title>kreta</title>
+      <link>file://localhost/Volumes/jinke/kalle/fotos/Paginas/kreta.html</link>
+      <guid isPermaLink="false">0bfd9fcd-931d-4f95-8be5-7cc60355a21d</guid>
+    </item>
+  </channel>
+</rss>

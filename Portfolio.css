@@ -1,0 +1,18 @@
+
+
+BODY
+{
+	font-family: Arial,verdana;
+	font-size: 12pt;
+	color: #306;
+	
+}
+
+	a:link {color: #303; text-decoration: none;}
+	a:visited { color:#303; text-decoration:none; }
+	a:active { color:#0C0; text-decoration:none;}
+
+h1 { font-size:24pt; }
+h2 { font-size:18pt; }
+h3 { font-size:12pt; font-weight:normal; }
+IMG { border: 0; }

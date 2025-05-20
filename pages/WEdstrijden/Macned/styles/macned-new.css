@@ -1,0 +1,204 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font: normal 100% "Myriad Pro", "Myriad Web", Myriad, "Trebuchet MS", verdana, arial, helvetica, sans-serif;
+	background-color: #FFF;
+	background-image: url('../images/new/background.gif');
+}
+
+img{border:0 }
+a:link, a:visited{ text-decoration:none;
+color:#DE7B31;
+ }
+a:hover, a:active{ text-decoration:underline;
+color:#DE7B31;
+ }
+div#container {width:743px;
+margin:11px auto 0;
+text-align:left;
+}
+
+div#header{position:relative;
+width:741px;
+background:url(/images/new/header_back.gif);
+height:77px;
+border:1px solid #ABABAB;
+}
+
+h1#logo {width:269px;
+height:58px;
+margin:0 4px 0 0;
+padding:0;
+}
+div#topbanner{ position:absolute;
+right:10px;
+width:468px;
+top:10px;
+ }
+div#content{position:relative;
+border:1px solid #ABABAB;
+margin:25px 0 0;
+background:#fff;
+height:100px;
+min-height:100px;
+padding:27px 3px 5px;
+font-size:0.75em;
+line-height:1.2em;
+clear:both;
+}
+/* hack needed to make sure that W3C-compliant browsers stretch the content div. */div#container > div#content{ height:auto;
+ }
+ul#menu {margin:0;
+padding:0;
+position:absolute;
+top:-8px;
+left:279px;
+list-style:none;
+}
+ul#menu li{ display:inline;
+margin:0 0 0 -5px;
+padding:0;
+ }
+div.leftportlets {float:left;
+width:466px;
+clear:both;
+}
+div.rightportlets{float:left;
+margin:0 0 0 4px;
+width:262px;
+clear:right;
+}
+div#xhtmllink{ clear:both;
+text-align:right;
+padding:1em 0 0;
+
+height:31px;
+ }
+div#xhtmllink a { color:#DE7B31;
+}
+
+div.portletcontent{border:0 solid #999;
+border-width:0 1px;
+background:#fff;
+clear:both;
+margin:0;
+padding:0.5em;
+}
+.portletcontent h3, .portletcontent p, .portletcontent fieldset, .portletcontent blockquote {font-size:1em;
+}
+blockquote cite {font:bold 1em arial,helvetica,sans-serif;
+}
+.portletcontent .contentlist{margin:0;
+padding:0;
+list-style:none;
+color:#DE7B31;
+}
+.contentlist a:link, .contentlist a:visited{color:#000;
+}
+.contentlist a:active, .contentlist a:hover{text-decoration:underline;
+}
+.contentlist .items{margin:0.5em 0 0 1em;
+list-style:none;
+padding:0;
+}
+.listdivider
+{
+	width: 100%;
+	height: 1px;
+	line-height: 1px;
+	margin: 5px 0;
+	clear: both;
+	background-image: url(../images/content_back_klein.gif);
+}
+.portlet {padding:2px 0;
+}
+.leftportlets>.portletcontent, .rightportlets>.portletcontent {height:auto;
+min-height:100px;
+}
+.portlettitlebar
+{
+	height: 18px;
+	line-height: 18px;
+	background-image: url(../images/portlet_top.gif);
+}
+.portletfooter
+{
+	clear: both;
+	height: 6px;
+	line-height: 6px;
+	background-image: url(../images/portlet_bottom.gif);
+}
+.portletfooter .portletleftcorner img, .portletfooter .portletrightcorner img {height:6px;
+display:block;
+}
+.portletfooter .portletleftcorner, .portletfooter .portletrightcorner {display:block;
+height:6px;
+}
+.portlettitlebar
+{
+	height: 18px;
+	line-height: 18px;
+	background-image: url(../images/portlet_top.gif);
+}
+.portletleftcorner {float:left;
+display:block;
+height:18px;
+background:#fff;
+}
+.portletrightcorner {display:block;
+float:right;
+height:18px;
+background:#fff;
+}
+.readonlink { display:block;
+text-align:right;
+margin:5px;
+font-weight:bold;
+color:#DE7B31;
+}
+.readonlink a { color:#DE7B31;
+ }
+#breakingnews {position:relative;
+width:456px;
+min-height:165px;
+height:165px;
+}
+#breakingnews img {border:1px solid #ABABAB;
+margin:0;
+}
+#breakingnews h3, #breakingnews a {margin:0;
+padding:0;
+font-size:1em;
+color:#DE7B31;
+text-decoration:none;
+font-weight:bold;
+}
+#bnimage {position:absolute;
+top:0;
+left:0.5em;
+width:180px;
+}
+#bntext {position:relative;
+width:270px;
+height:140px;
+margin:0 0 0 180px;
+}
+#bntext h3 {margin:0 0 0.5em;
+}
+#breakingnews p {margin:0;
+font-size:1em;
+}
+fieldset { border:0;
+margin:0;
+padding:0;
+}
+label {float:left;
+width:10em;
+}
+input, textarea { border:1px solid #ABABAB;
+ }
+.submitbtn {color:#DE7B31;
+font-size:1em;
+}

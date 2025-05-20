@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="nl">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=macintosh">
+	<title>FRAMElinks</title>
+	<link href="../../Portfolio.css" rel="stylesheet" type="text/css" media="all" charset="macintosh">
+	<meta name="generator" content="BBEdit 8.0">
+</head>
+
+<body  bgcolor="#330066">
+
+<table summary="DE-menu, met knoppen naar volgende scherm" border="0" frame="void" align="center" cellspacing="40">
+<colgroup span="3" width="150" align="center" valign="middle">
+</colgroup>
+	<tr align="center" valign="bottom">
+		<td>
+			<a href="DE-A01" target="FRAMErechts">
+			<img src="DE-images/kastknop.gif" alt="" width="100" height="100" align="middle"></a>
+			</td>
+			<td>
+			<a href="DE-D01" target="FRAMErechts">
+			<img src="DE-images/beeldjeknop.gif" alt="" width="100" height="100" align="middle">			
+			</td>
+			</tr>
+		
+		<tr align="center" valign="middle">
+		<td height="150">
+			<a href="DE-B01" target="FRAMErechts">
+			<img src="DE-images/13knop.jpg" alt="" width="100" height="101" align="middle">			
+			</td>
+			<td>
+			<a href="../KOstuums/KO-B01" target="FRAMErechts">
+			<img src="../KOstuums/KO-images/Keefman-knopklein.gif" alt="" width="100" height="100" align="middle"></a>
+			</td>			
+			<td>
+			<a href="../KOstuums/KO-A01" target="FRAMErechts">
+			<img src="../KOstuums/KO-images/KO-Lear-knopklein.gif" alt="" width="100" height="100" align="middle"></a>
+			</td>
+</tr>
+		
+		<tr align="center" valign="top">
+		<td height="150">
+			<a href="DE-C01" target="FRAMErechts">
+			<img src="DE-images/finsknop.gif" alt="" width="100" height="100" align="middle">
+		</td>
+		<td>
+			<a href="../KOstuums/KO-C01" target="FRAMErechts">
+			<img src="../KOstuums/KO-images/knoptovenaarklein.gif" alt="" width="100" height="100" align="middle"></a>
+			</td></tr>	
+</table>
+
+</body>
+</html>
